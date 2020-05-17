@@ -181,4 +181,3 @@ function test() {
 }
 test();  ?
 */
-// i think the output will not be the same because not all browser suppory setTime out , set time out its nott javascript function its browser extension
